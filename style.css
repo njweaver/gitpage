@@ -1,0 +1,46 @@
+
+h1{
+  font-size:xx-large;
+  color: #eee;
+  margin-bottom: 29px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 28px
+  }
+  img{
+    height: 100px;
+    width:  200px;
+    float: left;
+  }
+
+ .main-bio{
+     border-left-width: 600px;
+     border-right-width: 600px;;
+     width: 70%;
+     color: #eee;
+     font-size: 14pt;
+     
+ } 
+
+ head{
+     background-color: #333333;
+ }
+
+ .top{
+     background-color: #333333
+ }
+ h2{
+     font-size: 28px
+ }
+
+ body{
+     margin: 0 auto;
+    background-color: #333333;
+ }
+
+ table{
+     grid: 10px;
+     grid-area: auto;
+     color: #eee;
+     grid-template: 10px;
+     
+ }
